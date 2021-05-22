@@ -1,2 +1,2 @@
 My first file
-Added this line using git hub desktop
+Added this was added using git hub desktop application
